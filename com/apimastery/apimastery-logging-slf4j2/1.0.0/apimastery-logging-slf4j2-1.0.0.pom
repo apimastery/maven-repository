@@ -5,5 +5,4 @@
   <groupId>com.apimastery</groupId>
   <artifactId>apimastery-logging-slf4j2</artifactId>
   <version>1.0.0</version>
-  <description>POM was created from install:install-file</description>
 </project>
